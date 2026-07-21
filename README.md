@@ -26,7 +26,7 @@ Monitoring Setup
 
 ## Screenshots
 ### Host Availability
-![Host Availability](screenshots/hosts.png)
+![Host Availability](screenshots/cpu.png)
 *ZBX status green, host Ubuntu online*
 
 ### CPU Utilization
