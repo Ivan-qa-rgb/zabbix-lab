@@ -25,14 +25,21 @@ Monitoring Setup
     Custom trigger: CPU load over 75%
 
 Screenshots
-| Dashboard                                          | Description                   |
-| -------------------------------------------------- | ----------------------------- |
-| ![Hosts](screenshots/hosts.png)                    | Host availability (ZBX green) |
-| ![CPU](screenshots/cpu.png)                        | CPU utilization with triggers |
-| ![Memory](screenshots/memory.png)                  | Memory utilization ~23%       |
+## Screenshots
 
+### Host Availability
+![Host Availability](screenshots/hosts.png)
+*ZBX status green, host Ubuntu online*
+
+### CPU Utilization
+![CPU Utilization](screenshots/cpu.png)
+*CPU load with custom trigger over 75%*
+
+### Memory Utilization
+![Memory Utilization](screenshots/memory.png)
+*Memory usage ~23%*
 Tech Stack
     Zabbix 7.0
     Docker & Docker Compose
     MySQL 8.0
-    Ubuntu
+    Ubuntu 
