@@ -26,23 +26,10 @@ Monitoring Setup
 
 ## Screenshots
 
-<p align="center">
-  <b>Host Availability</b><br>
-  <img src="https://raw.githubusercontent.com/Ivan-qa-rgb/zabbix-lab/main/screenshots/hosts.png" width="800"><br>
-  <i>ZBX status green, host Ubuntu online</i>
-</p>
+https://github.com/Ivan-qa-rgb/zabbix-lab/blob/main/screenshots/cpu.png
 
-<p align="center">
-  <b>CPU Utilization</b><br>
-  <img src="https://raw.githubusercontent.com/Ivan-qa-rgb/zabbix-lab/main/screenshots/cpu.png" width="800"><br>
-  <i>CPU load with custom trigger over 75%</i>
-</p>
 
-<p align="center">
-  <b>Memory Utilization</b><br>
-  <img src="https://raw.githubusercontent.com/Ivan-qa-rgb/zabbix-lab/main/screenshots/memory.png" width="800"><br>
-  <i>Memory usage ~23%</i>
-</p>
+
 
 Tech Stack
     Zabbix 7.0
