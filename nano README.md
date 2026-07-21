@@ -1,6 +1,4 @@
 # zabbix-lab
-# Zabbix Lab
-
 Zabbix monitoring lab deployed in Docker on Ubuntu.
 
 ## Architecture
