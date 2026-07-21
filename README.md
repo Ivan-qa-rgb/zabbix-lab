@@ -28,7 +28,7 @@ Monitoring Setup
 
 https://github.com/Ivan-qa-rgb/zabbix-lab/blob/main/screenshots/cpu.png
 
-
+https://github.com/Ivan-qa-rgb/zabbix-lab/blob/main/screenshots/hosts.png
 
 
 Tech Stack
