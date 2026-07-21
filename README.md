@@ -29,7 +29,7 @@ Screenshots
 | ----------------------------------------------- | ----------------------------- |
 | ![Hosts](screenshots/hosts.png)                 | Host availability (ZBX green) |
 | ![CPU](screenshots/cpu.png)                     | CPU utilization with triggers |
-| ![Memory](zabbix-lab/screenshotsmemory.png.png) | Memory utilization ~23%       |
+| ![Memory](screenshotsmemory.png.png)            | Memory utilization ~23%       |
 
 Tech Stack
     Zabbix 7.0
