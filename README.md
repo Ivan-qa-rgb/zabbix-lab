@@ -1,3 +1,4 @@
+[![Zabbix](https://img.shields.io/badge/Zabbix-Download-DC2D27?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com/download)
 # Zabbix Lab
 
 Проект по мониторингу на базе Zabbix, развернутый через Docker Compose на Ubuntu.  
