@@ -27,9 +27,8 @@ Monitoring Setup
 ## Screenshots
 
 https://github.com/Ivan-qa-rgb/zabbix-lab/blob/main/screenshots/cpu.png
-
 https://github.com/Ivan-qa-rgb/zabbix-lab/blob/main/screenshots/hosts.png
-
+https://github.com/Ivan-qa-rgb/zabbix-lab/blob/main/screenshots/memory.png
 
 Tech Stack
     Zabbix 7.0
